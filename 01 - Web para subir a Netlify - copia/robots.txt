@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cancha-resultados-directo.netlify.app/sitemap.xml
